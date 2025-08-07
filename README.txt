@@ -1,4 +1,3 @@
-test 1
-test 3
-test 4
-test 5
+# 学校用git講座リポジトリ
+
+2025夏 Git実践での修正
